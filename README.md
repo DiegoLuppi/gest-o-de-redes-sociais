@@ -1,1 +1,1 @@
-# gest-o-de-redes-sociais
+# gestão-de-redes-sociais
